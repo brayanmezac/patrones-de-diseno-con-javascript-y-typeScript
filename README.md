@@ -1,1 +1,1 @@
-# patrones-de-diseno-con-javascript-y-typeScript
+# patrones de diseño con javascript y typeScript
